@@ -1,0 +1,69 @@
+# ==========================================================
+# = Solver Results                                         =
+# ==========================================================
+# ----------------------------------------------------------
+#   Problem Information
+# ----------------------------------------------------------
+Problem: 
+- Name: unknown
+  Lower bound: 71500.0
+  Upper bound: 71500.0
+  Number of objectives: 1
+  Number of constraints: 19
+  Number of variables: 24
+  Number of nonzeros: 47
+  Sense: minimize
+# ----------------------------------------------------------
+#   Solver Information
+# ----------------------------------------------------------
+Solver: 
+- Status: ok
+  Termination condition: optimal
+  Statistics: 
+    Branch and bound: 
+      Number of bounded subproblems: 0
+      Number of created subproblems: 0
+  Error rc: 0
+  Time: 0.011289834976196289
+# ----------------------------------------------------------
+#   Solution Information
+# ----------------------------------------------------------
+Solution: 
+- number of solutions: 1
+  number of solutions displayed: 1
+- Gap: 0.0
+  Status: feasible
+  Message: None
+  Objective:
+    objfn:
+      Value: 71500
+  Variable:
+    DEC[5]:
+      Value: 1000
+    DEC[6]:
+      Value: 500
+    INC[2]:
+      Value: 1500
+    INC[3]:
+      Value: 2500
+    I[1]:
+      Value: 1500
+    I[2]:
+      Value: 2000
+    I[3]:
+      Value: 2000
+    I[6]:
+      Value: 500
+    P[1]:
+      Value: 1000
+    P[2]:
+      Value: 2500
+    P[3]:
+      Value: 5000
+    P[4]:
+      Value: 5000
+    P[5]:
+      Value: 4000
+    P[6]:
+      Value: 3500
+  Constraint: No values

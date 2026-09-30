@@ -1,0 +1,39 @@
+set J:=
+1
+2
+3
+4
+5
+6
+;
+
+
+param d:=
+1 1000
+2 2000
+3 5000
+4 7000
+5 4000
+6 3000
+;
+param cinc:=
+10
+;
+param cdec:=
+5
+;
+param cinv:=
+4
+;
+param Imax:=
+2000
+;
+param Iend:=
+500
+;
+param I0:=
+1500
+;
+param P0:=
+1000
+;
